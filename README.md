@@ -1,6 +1,6 @@
 # UBS vs BCV: Comparateur de conditions générales
 
-UBS vs BCV est une application d'intelligence artificielle, exploitant les capacités de [LangChain](https://python.langchain.com/docs/get_started/introduction.html) [OpenAI](https://openai.com/) et [DeepLake](https://www.deeplake.ai/), qui vous permet de comparer les conditions générales des deux banques Suisses: UBS et BCV.
+UBS vs BCV est une application d'intelligence artificielle, exploitant les capacités de [LangChain](https://python.langchain.com/docs/get_started/introduction.html), [OpenAI](https://openai.com/) et [DeepLake](https://www.deeplake.ai/), qui vous permet de comparer les conditions générales des deux banques Suisses: UBS et BCV.
 
 ## Documents comparés
 - UBS: [Conditions générales UBS (PDF)](https://www.ubs.com/global/fr/legal/country/switzerland/legalnotices/_jcr_content/mainpar/toplevelgrid_644694947/col1/linklist_411753453/link.1566204240.file/PS9jb250ZW50L2RhbS9hc3NldHMvY2MvZ2xvYmFsL2xlZ2FsL2RvYy9nZW5lcmFsLXRlcm1zLWFuZC1jb25kaXRpb25zLWZyLnBkZg==/general-terms-and-conditions-fr.pdf)
