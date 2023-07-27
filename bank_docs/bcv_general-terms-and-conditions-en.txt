@@ -1,0 +1,450 @@
+03-008e/22.01 1/4 General C onditions  
+January 20 22 version  
+INTRODUCTION  
+The purpose of these General Conditions is to establish clear regulations governing relations between Banque Cantonale 
+Vaudoise ("BCV") and each individual or legal entity with which it does business (the "Customer"). Also applicable are 
+speci fic agreements, special regulations applying to certain categories of business, customary banking practices , 
+in particular the uniform rules and usage of the International Chamber of Commerce, and customary practices in financial 
+markets.  
+ 
+1. AUTHORIZED USE OF AN ACCOUNT  
+Signatures given in writing by the Customer shall be the 
+only signatures recognized by BCV. They shall remain 
+valid, notwithstanding any conflicting or divergent entries in 
+the Commercial Register or in any publication, until revoked 
+by the C ustomer in writing. If the authorized use of an 
+account is based on providing a correct code or password 
+or on some other authentication technology (the "Code"), 
+BCV shall rely solely on the proper verification of such a 
+Code by the system in question. The  Customer shall be 
+bound by any transactions so processed.
+
+2. SIGNATURE VERIFICATION AND PROOF OF 
+AUTHORITY  
+Any loss or damage resulting from the failure by BCV to 
+detect identity fraud or forgeries, including in the context of 
+online banking services, shall be borne by the Customer, 
+except in the event of gross negligence on the part of BCV. 
+The Customer shall be responsible for taking all measures 
+necessary and within the Customer's power to prevent 
+unauthorized third parties from gaining access to the 
+Custo mer's bank accounts and services. The Customer shall 
+be liable for any breach of the Customer’s duty of care.
+
+3. LEGAL INCAPACITY  
+Any loss or damage resulting from the legal incapacity of the 
+Customer or of a third party shall be borne by the Customer, 
+unless  such incapacity has been published in the Feuille des 
+Avis Officiels du Canton de Vaud [official gazette], or unless 
+BCV has been notified in writing of such incapacity.
+
+4. COMMUNICATIONS AND ADDRESSES  
+The Customer must accurately communicate all required 
+information to BCV, including the Customer's name, 
+headquarters address, home address, permanent residence 
+address, tax residence address, contact and mailing details, 
+nationality(ies), and any other information that BCV requires. 
+This obligation shall apply  to the Customer’s information and 
+the information of any agents or representatives, beneficial 
+owners of assets in the Customer’s account(s), persons with a 
+controlling interest, beneficiaries, or any other individual or 
+entity involved in the Customer’s relationship with BCV. The 
+Customer must inform BCV in a timely manner of any change 
+in circumstances that changes the above information, as well 
+as of the revocation of a power of attorney or signing authority.  
+Communications from BCV shall be deemed to h ave been 
+validly made when sent in accordance with the latest mailing 
+instructions received by BCV, or, for instructions for using 
+any other data -transfer method, including electronic, once 
+the appropriate information is made available by BCV. The 
+date sho wn on the counterpart or on the data medium in 
+BCV’s possession shall be deemed to be the mailing date or 
+the date on which the communication was released. 
+Communications retained by BCV in accordance with the 
+Customer’s instructions shall be deemed to hav e been 
+delivered on the date shown thereon.  
+If the Customer or the Customer's authorized representative 
+contacts BCV electronically or communicates the Customer's 
+email address to BCV, BCV shall be authorized to contact 
+the Customer via email in return. Cu stomers who choose to 
+communicate with BCV by telephone or electronically assume the risks thereof. Communications that use a 
+telephone network or the Internet are not secure; neither thecommunicate with BCV by telephone or electronically assume the risks thereof. Communications that use a 
+telephone network or the Internet are not secure; neither the 
+Customer’s identity, nor BCV's identity, nor the content of the 
+comm unication can be kept confidential, and the flow of data 
+between the Customer and BCV may enable a third party to 
+infer a banking relationship. Therefore, any damages 
+resulting, without limitation, from the loss, interception, 
+modification, delay, abuse, t hird-party access, or identity theft 
+shall be borne by the Customer, except in the event of gross 
+negligence on the part of BCV.  
+The Customer shall take all measures necessary to stay in 
+contact with BCV. If BCV finds it can no longer reach the 
+Customer, B CV shall be authorized to disregard the 
+instructions provided and to contact the Customer or the 
+Customer's legal successors. Any costs incurred shall be 
+borne by the Customer. Should the Customer's assets 
+become dormant, BCV shall apply the regulations go verning 
+dormant assets.
+
+5. TRANSMISSION ERRORS  
+Any loss or damage resulting from the use of postal 
+services, the telephone, the  fax machine, or any other 
+means of transmission, or of any shipping company, 
+particularly that arising from any delays, losses, 
+misunderstandings, interceptions, mutilations, or 
+duplications, shall be borne by the Customer, except in the 
+event of gross negligence on the part of BCV.
+
+6. NON -EXECUTION OR INCORRECT EXECUTION  
+In the event of loss or damage imputable to the non -
+execution or i ncorrect execution of any order, BCV’s liability 
+shall be limited solely to loss of interest, unless BCV has 
+been expressly notified in writing of the risk of more 
+extensive loss or damage in any given case.  
+Regardless of the type of order, BCV shall be li able only for 
+damage caused directly by the incorrect execution of the 
+transaction in question, and shall not be liable for any lost 
+profit or any other type of indirect damage.  
+The Customer alone shall be responsible for the 
+consequences of any orders tha t are imprecise, 
+incomplete, or erroneous.
+
+7. DELAYED EXECUTION  
+BCV shall be authorized to delay, or even cancel, the 
+execution of a payment order or any other type of transaction 
+due to an investigation relating most notably to money 
+laundering or to individ uals or entities that may be or are 
+currently subject to sanctions. Should this happen, BCV shall 
+not be liable for any loss or damage incurred by the Customer 
+as a result of the delayed or canceled order or transaction.
+
+8. CUSTOMER COMPLAINTS  
+Any complaints by the Customer regarding the execution or 
+non-execution of any instructions, and any discrepancies in 
+bank statements or portfolio statements, must be referred 
+to BCV immediately upon receipt or becoming aware of 
+same, but at the latest within the period prescribed by BCV. 
+In particular, bank statements and portfolio statements shall 
+be deemed to have been accepted and approved unless 
+contested by the Customer within one month of their 
+communication, in accordance with the terms shown on 
+each statement .2/4 The Customer must immediately inform BCV if an awaited 
+communication or document is not received within the 
+normal postal delivery period. In cases where banking 
+information is provided in another medium or by another 
+transmission method, notification must b e made at the time 
+when the notice would normally have been released. Any 
+loss or damage resulting from the Customer’s failure to act 
+in a timely manner shall be borne by the Customer.
+
+9. RIGHT OF LIEN AND SET -OFF 
+For all present and future claims BCV may hav e 
+against the Customer in the course of their business 
+relationship as well as all third -party claims for capital 
+initially invested and capital gains (e.g., clawbacks), 
+irrespective of the maturity date or nature of such 
+claims or of the currencies in whi ch they are 
+denominated, the Customer grants BCV a right of set -
+off and a right of lien against any and all of the 
+Customer’s assets, notably all types of receivables or 
+securities (e.g., stocks, bonds, mortgages, documents 
+representing goods and merchandi se, derivatives or 
+forward contracts with a positive value, book -entry 
+securities, and paper securities, including any not 
+made out to the bearer) held in custody by BCV or at 
+any other location on behalf of the Customer. However, 
+the lien shall come into existence only upon the 
+vesting of the claim.  
+If the Customer defaults, BCV, at its sole discretion, 
+shall be entitled to realize the pledged assets either 
+through a private sale, based on market values, or 
+through legal proceedings.  
+These same rights shal l apply to advances and loans 
+granted by BCV against special guarantees or without 
+collateral.
+
+10. CURRENT ACCOUNTS  
+All accounts held by the Customer, irrespective of their 
+name or the currency in which they are denominated, shall 
+constitute a single current a ccount. Outstanding balances 
+on these accounts shall be payable at any time. BCV shall 
+be entitled to set off interest and balances between 
+accounts, but also reserves the right to enforce each 
+account balance separately.  
+If the Customer’s total orders exc eed the Customer's 
+available assets or overdraft facilities, BCV may decide, at 
+its sole discretion, which orders to execute, in full or in part, 
+without regard to the date appearing on the orders or the 
+date on which they are received by BCV.  
+BCV shall cr edit or debit contractual or customary interest 
+(including negative interest), fees, and commissions, as 
+well as any taxes, on such dates as may be determined by 
+BCV. BCV reserves the right to change its interest and 
+commission rates and due dates at any t ime. 
+The Customer shall inform BCV immediately of any funds 
+credited by error to the Customer. BCV may, without prior 
+notice, reverse any transaction credited by error to the 
+Customer's account, and advise the Customer accordingly.  
+Express or tacit approva l of a bank statement shall imply 
+approval of the items and transactions contained thereon 
+as well as any reservations made by BCV.
+
+11. FOREIGN CURRENCY ASSETS  
+Credits and debits in currencies other than Swiss legal 
+tender ("Foreign Currency") shall be made i n Swiss francs at 
+the rate of exchange in effect at the time of the transaction, 
+unless the Customer has given timely instructions to the 
+contrary or holds an account in the corresponding currency. 
+If the Customer holds only Foreign Currency accounts, then  
+credits and debits shall be made in one of the currencies, at 
+the sole discretion of BCV. BCV shall invest the equivalent 
+amount of Foreign Currency -denominated assets in its own name but for the account of the Customer and at the 
+Customer's own risk (up to the amount of the Customer’s 
+investment) with counterparties of BCV deemed worthy of 
+confidence, either within or outside the currency zone in 
+question. The Customer shall in particular bear any legal or 
+economic risks that may affect its assets in the countries ofconfidence, either within or outside the currency zone in 
+question. The Customer shall in particular bear any legal or 
+economic risks that may affect its assets in the countries of 
+the Foreign Currency or in any countries where the funds are 
+invested or through which they may pass as a result of 
+measures taken in those countries.  
+The Customer may make use of the Customer's Foreign 
+Currency assets by way of a sale or bank  transfer order. 
+Any other methods of using the assets shall be subject to 
+prior agreement by BCV.
+
+12. DEPOSIT INSURANCE  
+As a member of the deposit insurance association 
+esisuisse (www.esisuisse.ch), BCV is subject to the 
+Convention on deposit protection for Swiss banks and 
+securities dealers. Deposits held at BCV are thus insured 
+up to CHF 100,000 per Customer. Medium -term notes held 
+with BCV in the name of the Customer are likewise insured. 
+More information on the deposit insurance system is 
+available at www .bcv.ch/en/legal.
+
+13. CHANGES IN RATES AND FEES  
+BCV reserves the right to change its fee schedules, 
+interest rates (including negative interest rates), and 
+commissions at any time, as well as the dates on which 
+they are debited or paid, and the methods of thei r 
+calculation,  especially in response to changing conditions 
+in the money market. BCV shall inform the Customer in 
+advance of such changes by sending a circular letter, by 
+providing brochures on its premises, or by any other means 
+it may deem appropriate. All changes to BCV's terms and 
+conditions appearing on bank statements and on securities 
+portfolio statements sent to the Customer shall be binding 
+on all debtors and asset holders, except where expressly 
+contested by them in writing, sent to BCV within th e period 
+specified in Article 8.
+
+14. TERMINATION OF THE BUSINESS RELATIONSHIP  
+Both the Customer and BCV may terminate their 
+business relationship at any time. BCV may in 
+particular cancel any credit facilities or commitments it 
+may have approved or granted; th ereupon any claims 
+of BCV shall immediately become due and payable. 
+The business relationship shall not be considered 
+definitively terminated until BCV has received full 
+payment of all outstanding principal and interest. In 
+particular, termination of the b usiness relationship 
+shall not entail cancellation of contractual interest 
+rates or of any special or general guarantees granted 
+to BCV, until all amounts owed to BCV are paid in full.  
+If, even after an additional reasonable period prescribed by 
+BCV, the C ustomer fails to instruct BCV as to where to 
+transfer the Customer’s assets and securities on deposit, 
+BCV may physically deliver them or may liquidate them. 
+BCV may deposit the proceeds and the Customer's still -
+available assets in the place designated by a judge (which 
+shall have the effect of discharging BCV from any liability in 
+this regard), or may send them, in the form of a check, to 
+the last mailing address indicated by the Customer.
+
+15. BILLS OF EXCHANGE, CHECKS, AND OTHER 
+PAPER  
+BCV shall be entitled to  debit the Customer's account for 
+any unpaid bills of exchange, checks, or other paper 
+(“Notes") previously credited or discounted. Until such time 
+as the debit balance has been settled, BCV shall retain the 
+right to demand full payment of such Notes, incl uding 
+accessory claims (foreign exchange charges, check fees, 
+or other claims) against any party liable under such Notes.3/4 In the case of Notes payable in countries other than 
+Switzerland, if action is taken against BCV within the 
+statute of limitations app licable in such countries, any loss 
+or damage that may result from such claims shall be borne 
+by the Customer.
+
+16. TELEPHONE CONVERSATIONS  
+In order to safeguard the accuracy of transactions, 
+BCV may record, without prior notice, conversations 
+between the Custo mer and BCV on some telephone 
+lines (such as those on the trading floor), through 
+video conferencing, or any other digital means of 
+communication. Such recordings shall be erased 
+regularly at intervals to be determined by BCV.
+
+17. OUTSOURCING  
+BCV reserves the  right to outsource certain activities to 
+external service providers. These service providers may be 
+BCV affiliates or third parties. The service providers to 
+which activities are outsourced may, in turn, use 
+subcontractors. BCV may outsource the following  activities, 
+in whole or in part, on a temporary or permanent basis: 
+(i) execution of transactions (e.g., payment transactions); 
+(ii) custody and administration of financial instruments; 
+(iii) IT services (e.g., hosting IT systems); (iv) printing and 
+sendi ng of communications; and (v) other business support 
+services. When activities are outsourced, Customer data 
+may be sent to the service providers. The service providers 
+to which activities are outsourced are required to maintain 
+the confidentiality of the data sent to them.
+
+18. DATA PROTECTION  
+BCV collects from the Customer or third -party sources the 
+personal data about the Customer and parties related to 
+the Customer (e.g., an agent or the beneficial owner of the 
+assets in the Customer's account(s)) that BCV n eeds for its 
+activities.  BCV’s “Data privacy notice ”, which is available at 
+www.bcv.ch/en/legal, contains detailed information a bout 
+how BCV processes per sonal data.  
+BCV processes these data:  
+- To fulfill a contractual obligation BCV has to the 
+Customer ; 
+- To fulfill a legal or regulatory obligation;  
+- In the legitimate interests of BCV, specifically:  
+• To build a business relationship;  
+• To improve BCV’s organization and 
+processes, including risk management;  
+• For marketing and advertising purposes, 
+including to carry out market research, 
+customize BCV’s products and services, and 
+provide the Customer with personalized 
+advice and tailored offers;  
+• To enable BCV to enforce or dispute a current 
+or future claim or to comply with an 
+investigation carried out by a publi c authority 
+in Switzerland or abroad.  
+Where applicable, these data may also be processed by an 
+automated system.
+
+19. BANKING CONFIDENTIALITY  
+BCV, its Board of Directors and Executive Board, and its 
+employees, agents, and external service providers must 
+maintai n the Customer's banking relationship confidential.  
+The Customer releases BCV, its Board of Directors and 
+Executive Board, and its employees, agents, and external 
+service providers from this obligation and expressly 
+waives the Customer's right to banking c onfidentiality 
+when this is necessary for BCV to provide services to the 
+Customer (e.g., carrying out payment transactions and 
+trading financial instruments – including derivatives and structured products – currencies, and precious metals), 
+especially when  such services have an international 
+component.  
+The Customer authorizes BCV to communicate Customer 
+data to third parties, located in Switzerland or abroad, that 
+are involved in such services (e.g., parties that use financial 
+market infrastructure – such a s a stock exchange – brokers, 
+correspondent banks, sub -custodian banks, issuers, financial 
+market supervisory authorities, or any representatives of 
+these parties).  
+Such disclosure of Customer information is intended to ensure 
+(i) the provision of the serv ice and (ii) compliance with legal, 
+regulatory (including market practices), and contractualSuch disclosure of Customer information is intended to ensure 
+(i) the provision of the serv ice and (ii) compliance with legal, 
+regulatory (including market practices), and contractual 
+provisions governing the provision of the services.  
+In the above cases, BCV does not have control over the data 
+once they are communicated to a third party, and if  the third 
+party is located outside Switzerland, the Customer data are 
+no longer protected by Swiss law. The standards applicable 
+outside Switzerland do not necessarily offer the same 
+guarantees of confidentiality or data protection as Swiss law.  
+The Custo mer acknowledges that if the Customer issues 
+payment instructions or transaction orders for Swiss or foreign 
+securities, Customer data will be sent to entities that use 
+financial infrastructure systems, specifically SWIFT (Society for 
+Worldwide Interbank F inancial Telecommunication), and to 
+BCV’s correspondent banks. For more information on this 
+subject, the Customer is requested to read the Swiss Bankers 
+Association’s communication “Information regarding the 
+disclosure of client data and other information in international 
+payment transactions and investments in foreign securities” 
+(available at www.bcv.ch/en/legal).  
+The Customer acknowledges and agrees that Customer data 
+may be sent to BCV's service providers as part of BCV’s 
+outsourced activities within th e meaning of these General 
+Conditions. The Customer agrees that BCV shall not be 
+obligated to provide services or execute transactions if the 
+Customer revokes the Customer's consent to release BCV 
+from BCV’s obligation to maintain professional confidential ity 
+(including banking confidentiality) in this article.
+
+20. INTERESTS IN OTHER COUNTERPARTIES  
+BCV and any of its affiliates and/or their directors, managers, 
+and employees may own or have owned interests or 
+positions in certain securities, which they may buy or sell at 
+any time, or may have acted or traded as market makers. 
+They may have had and may have business relationships 
+with the issuers of certain securities, and may provide them 
+or third parties with corporate -finance services, capital -
+market services,  investment services, custody services, or 
+any other financial or related service.  
+When providing services of any kind, particularly in respect 
+to asset investments, BCV may receive benefits, notably in 
+the form of retrocessions, commissions, or any other 
+services from third parties. The Customer agrees that such 
+benefits shall accrue to BCV as compensation  and 
+irrevocably agrees not to claim these benefits (their ranges 
+and an example of how they are calculated can be found in 
+the document “Client informat ion regarding commissions, 
+retrocessions, and other benefits ”, available at 
+www.bcv.ch/en/legal).
+
+21. COMPLIANCE WITH LAWS  
+The Customer is responsible for complying with the laws 
+and regulations applicable to the Customer, which include 
+but are not limited to the obligation to file a tax return and to 
+pay any tax owed.
+
+22. PUBLIC HOLIDAYS  
+In all dealings with BCV, public holidays shall be those 
+recognized as such in Lausanne. Saturday is treated as a 
+public holiday.
+
+23. GOVERNING LAW AND JURISDICTION  
+All relations betw een the Customer and BCV shall be 
+governed by and construed in accordance with Swiss 
+law. 
+The place of performance and the exclusive place of 
+jurisdiction for any litigation shall be the place of 
+BCV's head office in Lausanne. The place of debt 
+collection proceedings against any Customer 
+domiciled abroad shall also be the place of BCV's head 
+office in Lausanne. Compulsory jurisdictions provided 
+by the governing law and international conventions 
+ratified by Switzerland remain applicable.  
+BCV, however, shall be entitled to take legal action at 
+the Customer's place of domicile or before any other 
+competent court.
+
+24. AMENDMENTS  
+BCV reserves the right to amend its General 
+Conditions at any time. The Customer will be informed in 
+advance of any amendments, in writing  or by any other 
+appropriate means. The amendments shall be deemed 
+approved upon usage by the Customer of a BCV service or 
+product, unless they are contested in writing by the 
+Customer within 30 days of their entry into force.  
+In the event of such an obje ction, BCV and the Customer 
+each reserve the right to terminate the business 
+relationship.  
+The Customer is encouraged to consult the current General 
+Conditions at www.bcv.ch/en/legal. The Customer may 
+obtain a hard copy of the General Conditions currently in 
+force at one of BCV’s branches at any time.  
+This document is a translation of the French text entitled “Conditions générales”; only the French text is 
+authoritative.
