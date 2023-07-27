@@ -11,8 +11,8 @@ def get_info_files(language='en'):
     elif language == "fr":
         bcv_path = 'bank_docs/bcv_general-terms-and-conditions-fr.txt'
         ubs_path = 'bank_docs/ubs_general-terms-and-conditions-fr.txt'
-        bcv_name = "bcv_general-terms-and-conditions-fr"
-        ubs_name = "ubs_general-terms-and-conditions-fr"
+        bcv_name = "bcv_outil_d_extraction_condition_general"
+        ubs_name = "ubs_outil_d_extraction_condition_general"
         input_format = "La pièce spécifique d'information que vous souhaitez obtenir du document"
 
     else:

@@ -6,7 +6,7 @@ from langchain.prompts import PromptTemplate
 from pydantic import BaseModel, Field
 import streamlit as st
 
-from custom_retrievers.custom_retrievers import get_multi_query_retriever_deep_lake
+from custom_retrievers.custom_retrievers import get_multi_query_retriever_deep_lake, get_multi_query_retriever_deep_lake_cloud
 
 # from dotenv import load_dotenv
 #
@@ -16,7 +16,7 @@ openai_key = st.secrets["OPENAI_API_KEY"]
 embeddings = OpenAIEmbeddings()
 
 
-def get_retrieval_qa_tools(files: list, language: str = "en") -> list[Tool]:
+def get_retrieval_qa_tools(files: list, language: str = "en", create_db=False) -> list[Tool]:
 
     if language == "en":
         prompt_template = """Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.
@@ -57,7 +57,7 @@ def get_retrieval_qa_tools(files: list, language: str = "en") -> list[Tool]:
 
         prompt = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
 
-        retriever = get_multi_query_retriever_deep_lake(file, language=language)
+        retriever = get_multi_query_retriever_deep_lake_cloud(file, language=language, create_db=create_db)
 
         qa_tool = RetrievalQA.from_chain_type(llm=llm,
                                               chain_type="stuff",

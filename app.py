@@ -15,7 +15,7 @@ def load_agent(language="fr"):
     llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k-0613", streaming=True)
 
     files = get_info_files(language=language)
-    tools = get_retrieval_qa_tools(files=files, language=language)
+    tools = get_retrieval_qa_tools(files=files, language=language, create_db=False)
     tool_names = [tool.name for tool in tools]
 
     if language == "en":
