@@ -20,7 +20,6 @@ openai_key = st.secrets["OPENAI_API_KEY"]
 active_loop_key = st.secrets["ACTIVELOOP_TOKEN"]
 
 
-
 embeddings = OpenAIEmbeddings()
 
 llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k-0613", streaming=True)

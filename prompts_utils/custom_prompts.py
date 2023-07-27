@@ -2,9 +2,6 @@ from langchain.prompts import StringPromptTemplate
 from langchain.agents import Tool
 
 from typing import List
-# from dotenv import load_dotenv
-#
-# load_dotenv()
 
 
 class CustomPromptTemplate(StringPromptTemplate):
