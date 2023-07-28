@@ -59,7 +59,6 @@ def get_retrieval_qa_tools(files: list, language: str = "en", create_db=False) -
 
         retriever = get_multi_query_retriever_deep_lake_cloud(file, language=language, create_db=create_db)
 
-
         qa_tool = RetrievalQA.from_chain_type(llm=llm,
                                               chain_type="stuff",
                                               retriever=retriever,
