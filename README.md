@@ -12,6 +12,8 @@ https://ubsvsbcv-lwjyvkqecky5zvqu3hhhhy.streamlit.app/
 
 Un exemple de question que vous pourriez poser est : *Quelle est la différence entre le secret bancaire de UBS et BCV?*
 
+![video demo](images/BCV_vs_UBS.gif)
+
 ## Comment ça marche?
 ![App Flow chart](images/Flow_chart.png "Flow chart BCV vs UBS")
 
