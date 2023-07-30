@@ -65,7 +65,6 @@ Observation: Le résultat de l'action
 Réflexion: Je connais maintenant la réponse finale
 Réponse Finale: la réponse finale à la question initiale
 
-Si vous avez les informations nécessaires dans vos 'Résultat de l'Action', vous pouvez répondre à la question finale directement.
 
 Commencez!
 

@@ -3,10 +3,11 @@ from langchain.chat_models import ChatOpenAI
 from langchain.tools import Tool
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
+from langchain.memory import ConversationBufferMemory
 from pydantic import BaseModel, Field
 import streamlit as st
 
-from custom_retrievers.custom_retrievers import get_multi_query_retriever_deep_lake, get_multi_query_retriever_deep_lake_cloud
+from custom_retrievers.custom_retrievers import get_multi_query_retriever_deep_lake, get_multi_query_retriever_deep_lake_cloud, get_multi_query_retriever
 
 # from dotenv import load_dotenv
 #
@@ -57,25 +58,24 @@ def get_retrieval_qa_tools(files: list, language: str = "en", create_db=False) -
 
         prompt = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
 
-        retriever = get_multi_query_retriever_deep_lake_cloud(file, language=language, create_db=create_db)
+        # retriever = get_multi_query_retriever_deep_lake_cloud(file, language=language, create_db=create_db)
+        retriever = get_multi_query_retriever(file, language=language)
 
         qa_tool = RetrievalQA.from_chain_type(llm=llm,
                                               chain_type="stuff",
                                               retriever=retriever,
                                               chain_type_kwargs={"prompt": prompt},
-                                              return_source_documents=file['return_source_documents'])
+                                              return_source_documents=file['return_source_documents'],
+                                              )
 
         tools.append(
             Tool(
                 args_schema=DocumentInput,
                 name=file["name"],
                 description=f"{tool_description} {file['name']} | {input_must_be} {file['input_format']}",
-                func=qa_tool.run,
+                func=qa_tool,
                 return_direct=file['return_direct'],
             )
         )
 
     return tools
-
-
-

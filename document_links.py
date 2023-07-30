@@ -28,7 +28,7 @@ def get_info_files(language='en'):
             "store_directory": store_directory + "bcv/" + language + "/",
             "chunk_size": 1500,
             "chunk_overlap": 0,
-            "return_source_documents": False,
+            "return_source_documents": True,
             "return_direct": False,
         },
         {
@@ -38,7 +38,7 @@ def get_info_files(language='en'):
             "store_directory": store_directory + "ubs/" + language + "/",
             "chunk_size": 1500,
             "chunk_overlap": 0,
-            "return_source_documents": False,
+            "return_source_documents": True,
             "return_direct": False,
         },
     ]
