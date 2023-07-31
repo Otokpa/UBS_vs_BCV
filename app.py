@@ -187,7 +187,7 @@ with st.sidebar:
     if st.button('Voir les sources'):
         logger.info("User clicked before sources where available")
         if len(st.session_state.messages) and st.session_state.messages[-1][
-            'role'] == 'assistant' and 'Ma réponse Finale:' in st.session_state.messages[-1]['content']:
+            'role'] == 'assistant' and 'Ma Réponse Finale:' in st.session_state.messages[-1]['content']:
             logger.info("User clicked after sources where available")
             st.write('Juste un moment, je recherche les sources...')
 
@@ -199,15 +199,17 @@ with st.sidebar:
         else:
             st.write('Il n\'y a pas de réponse finale pour vérifier les sources')
 
-    if sources_ready:
-
-        with st.chat_message("assistant"):
-            text = st.session_state['verification']['text']
-            text = text.replace('\n', '  \n')
-            st.write(text)
-
-
     st.write('Made by [Maxim Moshek, CFA](https://www.linkedin.com/in/mmoshek/)')
+
+if sources_ready:
+
+    with st.chat_message("assistant"):
+        text = st.session_state['verification']['text']
+        text = text.replace('\n', '  \n')
+        st.write(text)
+
+
+
 
 
 
