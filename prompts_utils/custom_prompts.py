@@ -58,7 +58,7 @@ Utilisez le format suivant :
 
 Question: la question à laquelle vous devez répondre
 Réflexion: vous devriez toujours réfléchir à quoi faire
-Action: le nom de l'outil, doit être l'une des [{tools}]
+Action: Le nom de l'outil. l'outil est contraint d'être un dans la sélection suivante : [{tools}]
 Paramètres: Paramètres de l'outil
 Observation: Le résultat de l'action
 ... (ce cycle Réflexion/Action/Paramètres/Observation peut se répéter N fois)
