@@ -128,9 +128,9 @@ if "messages" not in st.session_state:
 if not st.session_state.messages:
     example_questions = [
         "Bienvenue! Je suis un assistant virtuel qui peut vous aider à comparer les documents bancaires de UBS et BCV.",
-        "Voici quelques exemples de questions que vous pouvez me poser:\n\nQuelle est la différence entre le secret "
-        "bancaire de UBS et celui de BCV?\n\nQuelle est la différence entre la protection des données chez UBS et "
-        "celle chez BCV ?\n\nAprès avoir obtenu la réponse finale, vous pouvez voir les extraits des documents qui ont "
+        "Voici quelques exemples de questions que vous pouvez me poser:\n\n*Quelle est la différence entre le secret "
+        "bancaire de UBS et celui de BCV?*\n\n*Quelle est la différence entre la protection des données chez UBS et "
+        "celle chez BCV ?*\n\nAprès avoir obtenu la réponse finale, vous pouvez voir les extraits des documents qui ont "
         "servi à construire la réponse en cliquant sur 'Voir les sources' en bas à gauche.",
     ]
     for i, question in enumerate(example_questions):
@@ -150,12 +150,19 @@ if user_input := st.chat_input():
     st.chat_message("user").write(user_input)
     with st.chat_message("assistant"):
         st_callback = StreamlitCallbackHandler(st.container())
-        response = agent({'input': user_input}, callbacks=[st_callback])
-        logger.info(f"Assistant output: {response['output']}")
-        st.write(response['output'])
-        sources = get_source_from_answer(response)
-        st.session_state.messages.append({"role": "assistant", "content": response['output']})
-        st.session_state['sources'] = sources
+        try:
+            response = agent({'input': user_input}, callbacks=[st_callback])
+        except Exception as e:
+            logger.error(f"Error: {e}")
+            st.markdown("## Oups 🫣\n Quelque chose n'a pas fonctionné comme prévu. Veuillez essayer à nouveau. Si le problème persiste, essayez de modifier légèrement votre requête.")
+            response = {'output': '', 'intermediate_steps': []}
+        else:
+
+            logger.info(f"Assistant output: {response['output']}")
+            st.markdown(response['output'])
+            sources = get_source_from_answer(response)
+            st.session_state.messages.append({"role": "assistant", "content": response['output']})
+            st.session_state['sources'] = sources
 
 # Display source button if there's a response
 sources_ready = False

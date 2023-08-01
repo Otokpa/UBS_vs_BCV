@@ -12,10 +12,10 @@ https://ubsvsbcv-lwjyvkqecky5zvqu3hhhhy.streamlit.app/
 
 Un exemple de question que vous pourriez poser est : *Quelle est la différence entre le secret bancaire de UBS et BCV?*
 
-![video demo](images/BCV_vs_UBS.gif)
+![video demo](images/bcv_ubs.gif)
 
 ## Comment ça marche?
-![App Flow chart](images/Flow_chart.png "Flow chart BCV vs UBS")
+![App Flow chart](images/flow_bcv_ubs.png "Flow chart BCV vs UBS")
 
 Cette application démontre comment créer un agent conversationnel qui travaille en français. L'agent a accès à deux outils: un pour extraire des informations des conditions générales de UBS et un autre pour BCV.
 
