@@ -10,7 +10,8 @@ UBS vs BCV est une application d'intelligence artificielle, exploitant les capac
 Pour une meilleure compréhension des capacités de cette application, je vous encourage à essayer la démo disponible sur [Streamlit](https://ubsvsbcv-lwjyvkqecky5zvqu3hhhhy.streamlit.app/):
 https://ubsvsbcv-lwjyvkqecky5zvqu3hhhhy.streamlit.app/
 
-Un exemple de question que vous pourriez poser est : *Quelle est la différence entre le secret bancaire de UBS et BCV?*
+Un exemple de question que vous pourriez poser est : 
+*Quelle est la différence entre le secret bancaire de UBS et BCV?*
 
 ![video demo](images/bcv_ubs.gif)
 
